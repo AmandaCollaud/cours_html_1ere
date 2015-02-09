@@ -1,2 +1,2 @@
 # cours_html_1ere
-Cours HTML 1ère année CPNV
+Ceci est un dépôt pour les cours HTML du CPNV 1ère année médiamatique
