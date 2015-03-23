@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  
+    <title>Exercice 4</title>
+    <meta charset="utf-8">
+    
+  </head>
+</html>
+
+<body>
+
+  <h1>Recette</h1>
+  
+  <p>Pour ceux qui désirent...</p>
+  
+  <ul>
+  
+    <li>600 grammes de ...</li>
+    <li>verres de vin blanc</li>
+    
+    <li>
+      ~ 1 dl de
+      <a href="http://www.google.ch/search?q=kirsh"
+        title="Rechercher Kirsh sur Google">
+        kirsh
+      </a>
+    </li>
+    
+  </ul>
+  
+</body>
