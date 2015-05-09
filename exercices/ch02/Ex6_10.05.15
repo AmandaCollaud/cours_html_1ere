@@ -1,0 +1,31 @@
+<!DOCTYPE_html>
+<html>
+
+<head>
+	<title>Mon film préféré</title>
+	<meta charset="utf-8">
+</head>
+
+<body>
+
+	<form method="post" action="unscript.php">
+		
+	<h1>Mon film préféré</h1>
+		
+			<list="contacts">
+			<datalist id="contacts">
+			<option value="No idea"
+							label="Fight club">
+			</datalist>
+			<list>
+
+		
+		<input type="submit"
+						name="submit"
+						value="Envoyer">
+
+	</form>
+
+</body>
+
+</html>
